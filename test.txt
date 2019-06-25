@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0C08-2306
+
+ Directory of C:\Users\Muniraja\Desktop\GIT
+
+06/25/2019  09:38 PM    <DIR>          .
+06/25/2019  09:38 PM    <DIR>          ..
+06/25/2019  09:38 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  72,898,940,928 bytes free
